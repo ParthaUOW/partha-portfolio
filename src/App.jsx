@@ -32,9 +32,16 @@ function App() {
           gap: "12px",
         }}
       >
-        <h2 style={{ margin: 0, color: "#9eff1f", letterSpacing: "1px" }}>
-          Partha.dev
-        </h2>
+        <a href="/" style={{ display: "flex", alignItems: "center" }}>
+  <img
+    src="/logo.png"
+    alt="Partha Logo"
+    style={{
+      height: "40px",
+      objectFit: "contain",
+    }}
+  />
+</a>
 
         <div style={{ display: "flex", gap: "20px", flexWrap: "wrap" }}>
           <a href="#about" style={navLinkStyle}>
