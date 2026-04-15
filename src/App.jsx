@@ -37,7 +37,8 @@ function App() {
     src="/portlogo.png"
     alt="Partha Logo"
     style={{
-      height: "40px",
+      height: "60px",   // increase from 40px → 60px
+    width: "auto",
       objectFit: "contain",
     }}
   />
