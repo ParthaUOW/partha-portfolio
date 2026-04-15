@@ -34,7 +34,7 @@ function App() {
       >
         <a href="/" style={{ display: "flex", alignItems: "center" }}>
   <img
-    src="/logo.png"
+    src="/portlogo.png"
     alt="Partha Logo"
     style={{
       height: "40px",
