@@ -57,9 +57,13 @@ function App() {
                 className="button-link"
                 onClick={(e) => e.preventDefault()}
               >
-                <a href="/Arabinda_Saha_Resume.pdf" download>
+                <a 
+                  href="/Arabinda_Saha_Resume.pdf" 
+                  download="Arabinda_Saha_Resume.pdf" 
+                  className="button-link"
+                >
                   <button className="secondary-button">
-                     Download Resume
+                    Download Resume
                   </button>
                 </a>
               </a>
