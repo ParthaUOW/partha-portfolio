@@ -305,3 +305,10 @@ a {
     height: 64px;
   }
 }
+section {
+  scroll-margin-top: 100px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
