@@ -68,7 +68,7 @@ function App() {
         <h2 className="section-title">About Me</h2>
         <div className="card">
           <p className="body-text">
-            I am /////////// a Software Engineering graduate with a strong interest in
+            I am a Software Engineering graduate with a strong interest in
             frontend and full-stack development. I have experience building
             projects using React, Python, FastAPI, and Supabase, focusing on
             usability, clean design, and practical outcomes.
